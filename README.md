@@ -1,14 +1,5 @@
 # vuerouter-autentificador
 
-## Alumno: Javier Alejandro Castillo Oñatt
-
-## Credenciales de Autentificacion
-```
-user:     user@api.com
-password: 123456
-
-```
-
 ## Project setup
 ```
 npm install
@@ -31,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# usandoVueCypress
+Implementación de Cypress para pruebas globales en VueJS
